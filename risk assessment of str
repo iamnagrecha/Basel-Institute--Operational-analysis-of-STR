@@ -18,5 +18,6 @@ A STR contains a wealth of information
 
 - International open sources
  using google search, specifically enclosed in quotes
+- can leverage image's EXIF data, as that displays all additional details like camera used, time, location etc.
 
 
