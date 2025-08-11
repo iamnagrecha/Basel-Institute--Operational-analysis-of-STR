@@ -1,1 +1,1 @@
-# Basel-Institute--Operational-analysis-of-STR
+# Basel-Institute-Operational-analysis-of-STR
